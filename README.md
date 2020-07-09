@@ -1,5 +1,5 @@
 # Hi there 👋
-
+I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 stubborn 😄 in my work. 
 <!--
 **moshfiqrony/moshfiqrony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
