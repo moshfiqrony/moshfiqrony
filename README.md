@@ -33,3 +33,5 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
+
+[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=moshfiqrony&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
