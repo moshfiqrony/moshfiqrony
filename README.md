@@ -35,7 +35,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
 [![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=moshfiqrony&theme=dark&show_icons=true)](https://github.com/moshfiqrony)
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api/pin/?username=moshfiqrony&repo=awesome-bd-readme-profile&theme=dark)](https://github.com/moshfiqrony/awesome-bd-readme-profile)
+[![moshfiqrony's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9418800)](https://stackoverflow.com/users/9418800/moshfiqrony)
 
 
 # Read my recent blog's
