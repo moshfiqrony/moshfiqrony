@@ -46,7 +46,3 @@ All these are friend link you can access for free
 - [MutationObserver or regeneratorRuntime error solve in testing using JEST and react-testing-library](https://medium.com/@moshfiqrony/mutationobserver-or-regeneratorruntime-error-solve-in-testing-using-jest-and-react-testing-library-495cfbff6400?source=friends_link&sk=a360533f919f1b600a565c21726f0b35)
 - [Use React Native and Android Native Merged Boilerplate](https://medium.com/@moshfiqrony/react-native-and-android-native-boiler-plate-72a08409feed?source=friends_link&sk=f28256c7c0d0b8e5278196a337abb0ab)
 - [How To Enable OnBackPress Exit Facility In Your React Native App](https://medium.com/@moshfiqrony/how-to-enable-onbackpress-exit-facility-in-your-react-native-app-37880c4d3b4e?source=friends_link&sk=1d94551fba831d1989ca153b7343d40a)
-
-
-## Found my profile interesting and help you on anything?
-<a href="https://www.buymeacoffee.com/moshfiqrony" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="auto"></a>
