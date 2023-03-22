@@ -4,7 +4,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 
 - 🏢 I'm currently working at **Worklife**
 - 🚀 I use daily: **JavaScript**, **Python**, **Git**, **Bash**, **VS Code**
-- 💻 I work using: **React**, **MaterialUI**, **Django**, **PostgreSQL**, **Amazon AWS**, **Azure**, **GitHub**
+- 💻 I work using: **React**, **MaterialUI**, **CharkaUI**, **Django**, **PostgreSQL**, **Amazon AWS**, **Azure**, **GitHub**
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
 
