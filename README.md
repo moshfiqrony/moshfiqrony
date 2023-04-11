@@ -1,18 +1,18 @@
 # Hi there 👋
 
-I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. Connect with me here
+I love to talk about trending ⚡ technology ⚡, I have a huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. Connect with me here
 
 - 🏢 I'm currently working at **Worklife**
 - 🚀 I use daily: **JavaScript**, **Python**, **Git**, **Bash**, **VS Code**
-- 💻 I work using: **React**, **MaterialUI**, **CharkaUI**, **Django**, **PostgreSQL**, **Amazon AWS**, **Azure**, **GitHub**
+- 💻 I work using: **React**, **MaterialUI**, **ChakraUI**, **Django**, **PostgreSQL**, **Amazon AWS**, **Azure**, **GitHub**
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
 
 [![moshfiqrony's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9418800)](https://stackoverflow.com/users/9418800/moshfiqrony)
 
 
-# Read my recent blog's
-All these are friend link you can access for free
+# Read my recent blog
+All these are friend links you can access for free
 
 - [Make your commit more meaningful using emojis](https://medium.com/@moshfiqrony/make-your-commit-more-meaningful-using-emojis-7dbf553293e8?source=friends_link&sk=28cd4c9b6e08e3fb9b1c6723cb4ef7ff)
 - [How to write multiple Axios mock implementations in testing](https://medium.com/@moshfiqrony/how-to-write-multiple-axios-mock-implementations-in-testing-78d3b5c6a8b5?source=friends_link&sk=4877c0ad23393c77921a2d5b89a8e3df)
